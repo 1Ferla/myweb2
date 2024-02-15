@@ -1,0 +1,41 @@
+2024-02-15 12:27:33.146 [info] Log level: Info
+2024-02-15 12:27:33.146 [info] Validating found git in: "git"
+2024-02-15 12:27:33.146 [info] Using git "2.34.1" from "git"
+2024-02-15 12:27:33.146 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-15 12:27:33.146 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2024-02-15 12:27:33.146 [info] Open repository: /home/camilof
+2024-02-15 12:27:33.171 [info] > git rev-parse --show-toplevel [519ms]
+2024-02-15 12:27:33.173 [info] > git config --get commit.template [526ms]
+2024-02-15 12:27:34.047 [info] > git check-ignore -v -z --stdin [862ms]
+2024-02-15 12:27:34.053 [info] > git rev-parse --show-toplevel [860ms]
+2024-02-15 12:27:34.220 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [178ms]
+2024-02-15 12:27:34.337 [info] > git rev-parse --show-toplevel [273ms]
+2024-02-15 12:27:34.507 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 --follow -- /home/camilof/web.html [137ms]
+2024-02-15 12:27:34.546 [info] > git rev-parse --show-toplevel [161ms]
+2024-02-15 12:27:34.560 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-15 12:27:34.637 [info] > git show --textconv e6f590ff3134bcf4fd76285f60c8a6c45ad86551^:web.html [60ms]
+2024-02-15 12:27:34.637 [info] > git show --textconv e6f590ff3134bcf4fd76285f60c8a6c45ad86551:web.html [48ms]
+2024-02-15 12:27:34.637 [info] > git show --textconv :web.html [16ms]
+2024-02-15 12:27:34.640 [info] > git ls-tree -l e6f590ff3134bcf4fd76285f60c8a6c45ad86551 -- /home/camilof/web.html [30ms]
+2024-02-15 12:27:34.642 [info] > git ls-tree -l e6f590ff3134bcf4fd76285f60c8a6c45ad86551^ -- /home/camilof/web.html [44ms]
+2024-02-15 12:27:34.642 [info] fatal: Not a valid object name e6f590ff3134bcf4fd76285f60c8a6c45ad86551^
+2024-02-15 12:27:34.660 [info] > git ls-files --stage -- /home/camilof/web.html [28ms]
+2024-02-15 12:27:34.717 [info] > git ls-tree -l e6f590ff3134bcf4fd76285f60c8a6c45ad86551^ -- /home/camilof/web.html [11ms]
+2024-02-15 12:27:34.717 [info] fatal: Not a valid object name e6f590ff3134bcf4fd76285f60c8a6c45ad86551^
+2024-02-15 12:27:34.718 [info] > git ls-tree -l e6f590ff3134bcf4fd76285f60c8a6c45ad86551 -- /home/camilof/web.html [22ms]
+2024-02-15 12:27:34.720 [info] > git cat-file -s 8d95a289915a7cd4ead7297088b42762172bf5c6 [51ms]
+2024-02-15 12:27:34.992 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 --follow -- /home/camilof/web.html [10ms]
+2024-02-15 12:27:35.990 [info] > git status -z -uall [1762ms] (cancelled)
+2024-02-15 12:27:38.120 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 --follow -- /home/camilof/web.html [10ms]
+2024-02-15 12:27:38.241 [info] > git show --textconv :web.html [9ms]
+2024-02-15 12:27:38.243 [info] > git ls-files --stage -- /home/camilof/web.html [4ms]
+2024-02-15 12:27:38.252 [info] > git cat-file -s 8d95a289915a7cd4ead7297088b42762172bf5c6 [1ms]
+2024-02-15 12:29:12.714 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [4ms]
+2024-02-15 12:29:12.729 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [3ms]
+2024-02-15 12:32:40.341 [info] > git ls-files --stage -- /home/camilof/web.html [2ms]
+2024-02-15 12:32:40.352 [info] > git cat-file -s 8d95a289915a7cd4ead7297088b42762172bf5c6 [1ms]
+2024-02-15 12:32:40.366 [info] > git show --textconv :web.html [1ms]
+2024-02-15 12:32:51.287 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-15 12:34:34.464 [info] > git config --get commit.template [81ms]
+2024-02-15 12:34:34.513 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-02-15 12:34:36.728 [info] > git status -z -uall [2188ms] (cancelled)

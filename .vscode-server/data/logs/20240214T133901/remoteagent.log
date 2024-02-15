@@ -1,0 +1,27 @@
+2024-02-14 13:39:01.760 [info] 
+
+
+
+
+2024-02-14 13:39:01.796 [info] Extension host agent started.
+2024-02-14 13:39:01.976 [info] [127.0.0.1][63dc3ce6][ManagementConnection] New connection established.
+2024-02-14 13:39:03.025 [info] [127.0.0.1][ad80d59b][ExtensionHostConnection] New connection established.
+2024-02-14 13:39:03.038 [info] [127.0.0.1][ad80d59b][ExtensionHostConnection] <7043> Launched Extension Host Process.
+2024-02-14 13:40:49.790 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/camilof/.vscode-server/extensions/extensions.json
+2024-02-14 13:40:49.835 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2024-02-14 13:40:50.313 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/camilof/.vscode-server/extensions/extensions.json
+2024-02-14 13:40:52.521 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-14 13:40:52.577 [info] Installing extension: ritwickdey.liveserver
+2024-02-14 13:40:52.981 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-02-14 13:40:52.995 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2024-02-14 13:40:53.041 [info] Extension installed successfully: ritwickdey.liveserver
+2024-02-14 13:45:08.969 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/camilof/.vscode-server/extensions/extensions.json
+2024-02-14 13:45:09.015 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2024-02-14 13:45:09.224 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/camilof/.vscode-server/extensions/extensions.json
+2024-02-14 13:45:12.806 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-14 13:45:12.917 [info] Installing extension: ritwickdey.liveserver
+2024-02-14 13:45:13.304 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-02-14 13:45:13.312 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2024-02-14 13:45:13.356 [info] Extension installed successfully: ritwickdey.liveserver
+2024-02-14 13:47:55.075 [info] [127.0.0.1][63dc3ce6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 13:47:55.310 [info] [127.0.0.1][ad80d59b][ExtensionHostConnection] <7043> Extension Host Process exited with code: 0, signal: null.

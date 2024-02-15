@@ -1,0 +1,20 @@
+2024-02-15 12:27:28.241 [info] 
+
+
+
+
+2024-02-15 12:27:28.279 [info] Extension host agent started.
+2024-02-15 12:27:29.145 [info] [127.0.0.1][127aee08][ManagementConnection] New connection established.
+2024-02-15 12:27:29.158 [info] [127.0.0.1][5a73415e][ExtensionHostConnection] New connection established.
+2024-02-15 12:27:29.337 [info] [127.0.0.1][5a73415e][ExtensionHostConnection] <749> Launched Extension Host Process.
+2024-02-15 12:27:34.200 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-15 12:27:34.283 [info] Installing extension: ms-python.vscode-pylance
+2024-02-15 12:27:38.427 [info] Getting Manifest... ms-python.python
+2024-02-15 12:27:47.410 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2024-02-15 12:28:03.839 [info] Extracted extension to file:///home/camilof/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2: ms-python.vscode-pylance
+2024-02-15 12:28:03.850 [info] Renamed to /home/camilof/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2
+2024-02-15 12:28:03.857 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-02-15 12:28:03.867 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-02-15 12:28:03.877 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.2.1
+2024-02-15 12:34:38.452 [info] [127.0.0.1][127aee08][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 12:34:38.735 [info] [127.0.0.1][5a73415e][ExtensionHostConnection] <749> Extension Host Process exited with code: 0, signal: null.

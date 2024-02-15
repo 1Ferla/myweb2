@@ -1,0 +1,69 @@
+2024-02-14 14:06:15.446 [info] Log level: Info
+2024-02-14 14:06:15.446 [info] Validating found git in: "git"
+2024-02-14 14:06:15.446 [info] Using git "2.34.1" from "git"
+2024-02-14 14:06:15.446 [info] > git rev-parse --show-toplevel [336ms]
+2024-02-14 14:06:15.446 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-14 14:06:15.446 [info] > git rev-parse --show-toplevel [1126ms]
+2024-02-14 14:06:15.446 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-14 14:06:15.446 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-14 14:06:15.446 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-14 14:06:15.448 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-14 14:06:15.449 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-14 14:06:15.463 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-14 14:06:15.463 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-14 14:06:15.482 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-14 14:06:15.482 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-14 14:55:53.062 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-14 14:55:53.075 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-14 14:55:53.112 [info] Open repository: /home/camilof
+2024-02-14 14:55:53.139 [info] No remotes found in the git config file.
+2024-02-14 14:55:53.142 [info] > git config --get commit.template [14ms]
+2024-02-14 14:55:53.143 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-14 14:55:53.144 [warning] No such branch: master.
+2024-02-14 14:55:53.454 [info] > git show --textconv :web.html [13ms]
+2024-02-14 14:55:53.458 [info] > git ls-files --stage -- /home/camilof/web.html [6ms]
+2024-02-14 14:55:53.684 [info] > git check-ignore -v -z --stdin [4ms]
+2024-02-14 14:55:54.893 [info] > git status -z -uall [1732ms] (cancelled)
+2024-02-14 14:58:51.108 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-14 15:16:56.884 [info] > git ls-files --stage -- /home/camilof/web.html [4ms]
+2024-02-14 15:16:56.895 [info] > git cat-file -s 8d95a289915a7cd4ead7297088b42762172bf5c6 [2ms]
+2024-02-14 15:16:56.913 [info] > git show --textconv :web.html [3ms]
+2024-02-14 15:17:19.518 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 --follow -- /home/camilof/web.html [17ms]
+2024-02-14 15:17:25.327 [info] > git show --textconv e6f590ff3134bcf4fd76285f60c8a6c45ad86551^:web.html [30ms]
+2024-02-14 15:17:25.327 [info] > git show --textconv e6f590ff3134bcf4fd76285f60c8a6c45ad86551:web.html [21ms]
+2024-02-14 15:17:25.328 [info] > git ls-tree -l e6f590ff3134bcf4fd76285f60c8a6c45ad86551 -- /home/camilof/web.html [4ms]
+2024-02-14 15:17:25.331 [info] > git ls-tree -l e6f590ff3134bcf4fd76285f60c8a6c45ad86551^ -- /home/camilof/web.html [15ms]
+2024-02-14 15:17:25.331 [info] fatal: Not a valid object name e6f590ff3134bcf4fd76285f60c8a6c45ad86551^
+2024-02-14 15:17:25.835 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-14 15:17:32.045 [info] > git show --textconv :web.html [20ms]
+2024-02-14 15:17:32.045 [info] > git ls-files --stage -- /home/camilof/web.html [6ms]
+2024-02-14 15:17:32.079 [info] > git cat-file -s 8d95a289915a7cd4ead7297088b42762172bf5c6 [24ms]
+2024-02-14 15:35:55.994 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [3ms]
+2024-02-14 15:35:56.004 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [2ms]
+2024-02-14 15:35:56.567 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-14 15:40:33.802 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [2ms]
+2024-02-14 15:40:33.813 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [2ms]
+2024-02-14 15:56:58.188 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [2ms]
+2024-02-14 15:56:58.198 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [1ms]
+2024-02-14 15:59:14.775 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [3ms]
+2024-02-14 15:59:14.793 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [3ms]
+2024-02-14 16:00:18.702 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [2ms]
+2024-02-14 16:00:18.719 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [4ms]
+2024-02-14 16:02:50.343 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [2ms]
+2024-02-14 16:02:50.352 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [1ms]
+2024-02-14 16:06:19.318 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [2ms]
+2024-02-14 16:06:19.327 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [2ms]
+2024-02-14 16:13:04.515 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [2ms]
+2024-02-14 16:13:04.527 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [2ms]
+2024-02-14 16:13:19.443 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [3ms]
+2024-02-14 16:13:19.455 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [2ms]
+2024-02-14 16:13:51.542 [info] > git rev-list --count e6f590ff3134bcf4fd76285f60c8a6c45ad86551.. -- /home/camilof/web.html [2ms]
+2024-02-14 16:13:51.553 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/camilof/web.html [3ms]
+2024-02-14 16:14:06.209 [info] > git ls-tree -l e6f590ff3134bcf4fd76285f60c8a6c45ad86551 -- /home/camilof/web.html [10ms]
+2024-02-14 16:14:06.213 [info] > git ls-tree -l e6f590ff3134bcf4fd76285f60c8a6c45ad86551^ -- /home/camilof/web.html [21ms]
+2024-02-14 16:14:06.213 [info] fatal: Not a valid object name e6f590ff3134bcf4fd76285f60c8a6c45ad86551^
+2024-02-14 16:14:06.214 [info] > git ls-files --stage -- /home/camilof/web.html [6ms]
+2024-02-14 16:14:06.240 [info] > git show --textconv e6f590ff3134bcf4fd76285f60c8a6c45ad86551:web.html [10ms]
+2024-02-14 16:14:06.240 [info] > git show --textconv e6f590ff3134bcf4fd76285f60c8a6c45ad86551^:web.html [1ms]
+2024-02-14 16:14:06.242 [info] > git cat-file -s 8d95a289915a7cd4ead7297088b42762172bf5c6 [20ms]
+2024-02-14 16:14:06.259 [info] > git show --textconv :web.html [2ms]

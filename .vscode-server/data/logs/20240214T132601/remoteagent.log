@@ -1,0 +1,80 @@
+2024-02-14 13:26:01.944 [info] 
+
+
+
+
+2024-02-14 13:26:01.987 [info] Extension host agent started.
+2024-02-14 13:26:02.192 [info] [127.0.0.1][18663fd1][ManagementConnection] New connection established.
+2024-02-14 13:26:03.326 [info] [127.0.0.1][c94df792][ExtensionHostConnection] New connection established.
+2024-02-14 13:26:03.332 [info] [127.0.0.1][c94df792][ExtensionHostConnection] <3430> Launched Extension Host Process.
+2024-02-14 13:26:33.323 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2024-02-14 13:26:33.420 [info] Installing extension: streetsidesoftware.code-spell-checker
+2024-02-14 13:26:34.667 [warning] Extension signature verification failed with error 'ENOENT': streetsidesoftware.code-spell-checker
+2024-02-14 13:26:35.533 [info] Extracted extension to file:///home/camilof/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1: streetsidesoftware.code-spell-checker
+2024-02-14 13:26:35.551 [info] Renamed to /home/camilof/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1
+2024-02-14 13:26:35.560 [info] Extracting extension completed. streetsidesoftware.code-spell-checker
+2024-02-14 13:26:35.573 [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+2024-02-14 13:26:36.253 [info] Getting Manifest... pranaygp.vscode-css-peek
+2024-02-14 13:26:36.429 [info] Installing extension: pranaygp.vscode-css-peek
+2024-02-14 13:26:37.739 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-02-14 13:26:38.287 [info] Installing extension: dbaeumer.vscode-eslint
+2024-02-14 13:26:41.413 [warning] Extension signature verification failed with error 'ENOENT': pranaygp.vscode-css-peek
+2024-02-14 13:26:42.181 [warning] Extension signature verification failed with error 'ENOENT': dbaeumer.vscode-eslint
+2024-02-14 13:26:42.252 [info] Extracted extension to file:///home/camilof/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4: dbaeumer.vscode-eslint
+2024-02-14 13:26:42.262 [info] Renamed to /home/camilof/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.4
+2024-02-14 13:26:42.267 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2024-02-14 13:26:42.279 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2024-02-14 13:26:46.210 [info] Getting Manifest... tgreen7.vs-code-node-require
+2024-02-14 13:26:46.395 [info] Installing extension: tgreen7.vs-code-node-require
+2024-02-14 13:26:47.595 [warning] Extension signature verification failed with error 'ENOENT': tgreen7.vs-code-node-require
+2024-02-14 13:26:49.681 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-14 13:26:49.743 [info] Installing extension: ms-python.vscode-pylance
+2024-02-14 13:26:50.788 [info] Getting Manifest... ms-python.python
+2024-02-14 13:26:51.731 [info] Extracted extension to file:///home/camilof/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2: tgreen7.vs-code-node-require
+2024-02-14 13:26:51.752 [info] Renamed to /home/camilof/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2
+2024-02-14 13:26:51.756 [info] Extracting extension completed. tgreen7.vs-code-node-require
+2024-02-14 13:26:51.766 [info] Extension installed successfully: tgreen7.vs-code-node-require
+2024-02-14 13:26:52.123 [info] Getting Manifest... ms-python.debugpy
+2024-02-14 13:26:52.296 [info] Installing extension: ms-python.python ms-python.vscode-pylance
+2024-02-14 13:26:52.297 [info] Installing extension: ms-python.debugpy ms-python.vscode-pylance
+2024-02-14 13:26:54.105 [info] Extracted extension to file:///home/camilof/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1: pranaygp.vscode-css-peek
+2024-02-14 13:26:54.120 [info] Renamed to /home/camilof/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1
+2024-02-14 13:26:54.131 [info] Extracting extension completed. pranaygp.vscode-css-peek
+2024-02-14 13:26:54.145 [info] Extension installed successfully: pranaygp.vscode-css-peek
+2024-02-14 13:26:57.661 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2024-02-14 13:26:58.330 [warning] Extension signature verification failed with error 'ENOENT': ms-python.debugpy
+2024-02-14 13:27:01.056 [info] Extracted extension to file:///home/camilof/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-14 13:27:01.070 [info] Renamed to /home/camilof/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-14 13:27:01.074 [info] Extracting extension completed. ms-python.debugpy
+2024-02-14 13:27:05.550 [info] Extracted extension to file:///home/camilof/.vscode-server/extensions/ms-python.python-2024.0.1: ms-python.python
+2024-02-14 13:27:05.564 [info] Renamed to /home/camilof/.vscode-server/extensions/ms-python.python-2024.0.1
+2024-02-14 13:27:05.571 [info] Extracting extension completed. ms-python.python
+2024-02-14 13:27:11.690 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2024-02-14 13:27:22.585 [info] Extracted extension to file:///home/camilof/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1: ms-python.vscode-pylance
+2024-02-14 13:27:22.593 [info] Renamed to /home/camilof/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1
+2024-02-14 13:27:22.599 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-02-14 13:27:22.608 [info] Extension installed successfully: ms-python.debugpy
+2024-02-14 13:27:22.608 [info] Extension installed successfully: ms-python.python
+2024-02-14 13:27:22.609 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-02-14 13:28:00.181 [info] [127.0.0.1][18663fd1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 13:28:00.368 [info] [127.0.0.1][c94df792][ExtensionHostConnection] <3430> Extension Host Process exited with code: 0, signal: null.
+2024-02-14 13:28:03.592 [info] [127.0.0.1][a344d807][ManagementConnection] New connection established.
+2024-02-14 13:28:04.449 [info] [127.0.0.1][4de09712][ExtensionHostConnection] New connection established.
+2024-02-14 13:28:04.459 [info] [127.0.0.1][4de09712][ExtensionHostConnection] <4103> Launched Extension Host Process.
+2024-02-14 13:28:12.441 [info] [127.0.0.1][a344d807][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 13:28:12.520 [info] [127.0.0.1][4de09712][ExtensionHostConnection] <4103> Extension Host Process exited with code: 0, signal: null.
+2024-02-14 13:28:14.724 [info] [127.0.0.1][ab6133c6][ManagementConnection] New connection established.
+2024-02-14 13:28:15.619 [info] [127.0.0.1][df348b50][ExtensionHostConnection] New connection established.
+2024-02-14 13:28:15.630 [info] [127.0.0.1][df348b50][ExtensionHostConnection] <4210> Launched Extension Host Process.
+2024-02-14 13:28:57.930 [info] [127.0.0.1][ab6133c6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 13:28:58.020 [info] [127.0.0.1][df348b50][ExtensionHostConnection] <4210> Extension Host Process exited with code: 0, signal: null.
+2024-02-14 13:29:01.852 [info] [127.0.0.1][ba799c3a][ManagementConnection] New connection established.
+2024-02-14 13:29:03.126 [info] [127.0.0.1][5f388de0][ExtensionHostConnection] New connection established.
+2024-02-14 13:29:03.162 [info] [127.0.0.1][5f388de0][ExtensionHostConnection] <4449> Launched Extension Host Process.
+2024-02-14 13:29:49.146 [info] [127.0.0.1][ba799c3a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 13:29:49.311 [info] [127.0.0.1][5f388de0][ExtensionHostConnection] <4449> Extension Host Process exited with code: 0, signal: null.
+2024-02-14 13:29:52.053 [info] [127.0.0.1][13d5d5f0][ManagementConnection] New connection established.
+2024-02-14 13:29:53.015 [info] [127.0.0.1][ba0e937d][ExtensionHostConnection] New connection established.
+2024-02-14 13:29:53.027 [info] [127.0.0.1][ba0e937d][ExtensionHostConnection] <4698> Launched Extension Host Process.
+2024-02-14 13:29:57.706 [info] [127.0.0.1][13d5d5f0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 13:29:57.866 [info] [127.0.0.1][ba0e937d][ExtensionHostConnection] <4698> Extension Host Process exited with code: 0, signal: null.

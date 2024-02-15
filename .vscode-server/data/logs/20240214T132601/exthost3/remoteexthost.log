@@ -1,0 +1,14 @@
+2024-02-14 13:28:16.593 [info] Extension host with pid 4210 started
+2024-02-14 13:28:16.671 [info] Lock '/home/camilof/.vscode-server/data/User/workspaceStorage/98c770a5c2e1106bc61ad285bfdab1eb/vscode.lock': Lock acquired.
+2024-02-14 13:28:17.329 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-14 13:28:17.331 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-14 13:28:18.334 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-14 13:28:18.359 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-14 13:28:18.360 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-14 13:28:18.944 [info] Eager extensions activated
+2024-02-14 13:28:18.945 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-14 13:28:18.946 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-14 13:28:18.947 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-14 13:28:57.927 [info] Extension host terminating: received terminate message from renderer
+2024-02-14 13:28:57.929 [info] Lock '/home/camilof/.vscode-server/data/User/workspaceStorage/98c770a5c2e1106bc61ad285bfdab1eb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-14 13:28:58.002 [info] Extension host with pid 4210 exiting with code 0

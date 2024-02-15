@@ -1,0 +1,19 @@
+2024-02-14 13:36:18.200 [info] Extension host with pid 6345 started
+2024-02-14 13:36:18.293 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-14 13:36:18.296 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-14 13:36:18.483 [info] Lock '/home/camilof/.vscode-server/data/User/workspaceStorage/98c770a5c2e1106bc61ad285bfdab1eb/vscode.lock': Lock acquired.
+2024-02-14 13:36:19.303 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-14 13:36:19.332 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-14 13:36:19.333 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-14 13:36:19.874 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2024-02-14 13:36:20.422 [info] Eager extensions activated
+2024-02-14 13:36:20.423 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-14 13:36:20.423 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-14 13:36:20.424 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-14 13:36:20.424 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-14 13:36:20.424 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-02-14 13:36:27.030 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-14 13:36:27.030 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-14 13:38:48.788 [info] Extension host terminating: received terminate message from renderer
+2024-02-14 13:38:48.789 [info] Lock '/home/camilof/.vscode-server/data/User/workspaceStorage/98c770a5c2e1106bc61ad285bfdab1eb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-14 13:38:49.003 [info] Extension host with pid 6345 exiting with code 0

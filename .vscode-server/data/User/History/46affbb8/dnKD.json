@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "material-icon-theme",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "editor.accessibilitySupport": "off",
+    "files.autoSave": "onWindowChange",
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.NoBrowser": true,
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "/mnt/C/Program Files/Google/Chrome Dev/Application/chrome.exe"
